@@ -82,7 +82,7 @@ body
 {
     font: 14px/1.5 'Myriad Pro', Arial, Helvetica, sans-serif;
     color: #fff;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 a
 {
