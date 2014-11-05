@@ -139,12 +139,19 @@ td
     clear: both;
     content: "";
 }
+body {
+	overflow: hidden;
+}
+.bingo {
+	overflow: hidden;
+}
 .game
 {
     width: 1600px;
     height: 900px;
     background: url("../images/game.png") no-repeat;
     position: relative;
+	overflow: hidden;
 }
 .game-left
 {
